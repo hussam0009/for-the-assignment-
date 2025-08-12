@@ -1,0 +1,5 @@
+# Ignore log files this will tell github not to tarck this or push this type of files
+*.log
+
+# Ignore environment variable  files also to ignore .env file to be pushed 
+.env
